@@ -1,0 +1,14 @@
+{
+  "orgId": 1,
+  "name": "alpha-prod-dw",
+  "type": "prometheus",
+  "typeLogoUrl": "public/app/plugins/datasource/prometheus/img/prometheus_logo.svg",
+  "access": "proxy",
+  "url": "http://10.128.112.186:9090",
+  "password": "",
+  "user": "",
+  "database": "",
+  "basicAuth": false,
+  "isDefault": true,
+  "jsonData": {}
+}
